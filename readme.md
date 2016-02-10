@@ -11,7 +11,7 @@ Items for sale
 
 Name | 💷 | Comments | Sold
 -------- | ---- | --------------- | ------
-Tannoy HTS 201 5.1 Speakers | £270 | With cables! Good sound, great sub, look great | ❌
+Tannoy HTS 201 5.1 Speakers | £270 | With cables and rear stands! Good sound, great sub, look great | ❌
 Onkyo TX-NR414 Amplifier | £100 | Half price if sold with speakers | ❌
 Traktor Kontrol S2 | £170 | Much loved DJ controller | ❌
 Novation Launchpad Mini | £40 | Lights and buttons. Controllable with midi / node.js | ❌
