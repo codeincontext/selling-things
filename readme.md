@@ -18,6 +18,7 @@ Novation Launchpad Mini | £40 | Lights and buttons. Controllable with midi / no
 Apple Trackpad | £20 | The previous version | ✅
 Novation Nocturn | £20 | Midi controller | ❌
 Purple bean bag | FREE! | | ❌
+Box of Arduino & electronics kit | FREE! | For someone interested in learning that wouldn't otherwise have access | ❌
 
 *Coming soon: Ikea desk with monitor arm, Ikea desk chair, Ikea foam matress,
 computer monitor*
