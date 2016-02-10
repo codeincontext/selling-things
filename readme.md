@@ -19,4 +19,5 @@ Apple Trackpad | £20 | The previous version | ❌
 Novation Nocturn | £20 | Midi controller | ❌
 Purple bean bag | FREE! | | ❌
 
-*More coming...*
+*Coming soon: Ikea desk with monitor arm, Ikea desk chair, Ikea foam matress,
+computer monitor*
