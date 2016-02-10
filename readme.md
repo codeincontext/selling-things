@@ -15,7 +15,7 @@ Tannoy HTS 201 5.1 Speakers | £270 | With cables and rear stands! Good sound, g
 Onkyo TX-NR414 Amplifier | £100 | Half price if sold with speakers | ❌
 Traktor Kontrol S2 | £170 | Much loved DJ controller | ❌
 Novation Launchpad Mini | £40 | Lights and buttons. Controllable with midi / node.js | ❌
-Apple Trackpad | £20 | The previous version | ❌
+Apple Trackpad | £20 | The previous version | ✅
 Novation Nocturn | £20 | Midi controller | ❌
 Purple bean bag | FREE! | | ❌
 
