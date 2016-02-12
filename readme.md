@@ -15,16 +15,18 @@ Tannoy HTS 201 5.1 Speakers | £250 | With cables and rear stands! Good sound, g
 Onkyo TX-NR414 Amplifier | £100 | Half price if sold with speakers | ❌
 Traktor Kontrol S2 | £150 | Much loved DJ controller | ❌
 Novation Launchpad Mini | £40 | Lights and buttons. Controllable with midi / node.js | ❌
-Apple Trackpad | £20 | The previous version | ✅
 Novation Nocturn | £20 | Midi controller | ❌
-Purple bean bag | FREE! | | ❌
 Box of Arduino & electronics kit | FREE! | For someone interested in learning that wouldn't otherwise have access | ❌
 Dimplex 2KW portable fan heater | £10 | | ❌
+TP-Link Wireless N Nano Router | FREE! | Portable wifi router |  ❌
+Box of Arduino & electronics kit | FREE! | For someone interested in learning that wouldn't otherwise have access | ❌
+Apple Trackpad | £20 | The previous version | ✅
+Purple bean bag | FREE! | | ✅
 Ni no Kuni PS3 game | FREE! | Studio Ghibli game! | ✅ 
 Leap Motion USB hand sensor | FREE! | | ✅
 Mini displayport to VGA adapter | FREE! | | ✅
 2x Lomography ISO 100 B&W 35mm film | FREE! | | ✅
-TP-Link Wireless N Nano Router | FREE! | Portable wifi router |  ❌
+
 
 *Coming soon: Ikea desk with monitor arm, Ikea desk chair, Ikea foam matress,
 computer monitor*
