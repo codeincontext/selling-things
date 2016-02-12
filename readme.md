@@ -16,7 +16,6 @@ Onkyo TX-NR414 Amplifier | £100 | Half price if sold with speakers | ❌
 Traktor Kontrol S2 | £150 | Much loved DJ controller | ❌
 Novation Launchpad Mini | £40 | Lights and buttons. Controllable with midi / node.js | ❌
 Novation Nocturn | £20 | Midi controller | ❌
-Box of Arduino & electronics kit | FREE! | For someone interested in learning that wouldn't otherwise have access | ❌
 Dimplex 2KW portable fan heater | £10 | | ❌
 TP-Link Wireless N Nano Router | FREE! | Portable wifi router |  ❌
 Box of Arduino & electronics kit | FREE! | For someone interested in learning that wouldn't otherwise have access | ❌
