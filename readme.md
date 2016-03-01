@@ -14,7 +14,7 @@ Items for sale
 
 Name                                | 💷     | Comments | Sold
 --------                            | ----- | -------- | ----
-Ikea double foam mattress           | FREE! | 'Ikea double' length. Firm. Originally £180 | ❌
+Ikea double foam mattress           | FREE! | 'Ikea double' length. Removable section at end to make it normal double size. Firm. Originally £180 | ❌
 Tannoy HTS 201 5.1 Speakers         | £200  | With cables and rear stands! Good sound, great sub, look great. Originally £350+ | ❌
 Onkyo TX-NR414 Amplifier            | £70   | Half price if sold with speakers. Originally £150+ | ❌
 Traktor Kontrol S2                  | £100  | Much loved DJ controller. Some marking from sticky labels, would probably clean off. Originally £320 | ❌
@@ -26,6 +26,12 @@ Box of Arduino & electronics kit    | FREE! | For someone interested in learning
 Griffin macbook stand               | FREE! | | ❌
 Design Patterns in Ruby book        | FREE! | | ❌
 Muji "Aroma Diffuser"               | FREE! | | ❌
+
+Items sold
+---
+
+Name                                | 💷     | Comments | Sold
+--------                            | ----- | -------- | ----
 Apple Trackpad                      | £20   | The previous version | ✅
 Purple bean bag                     | FREE! | | ✅
 Ni no Kuni PS3 game                 | FREE! | Studio Ghibli game! | ✅
