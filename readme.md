@@ -24,6 +24,8 @@ TP-Link Wireless N Nano Router      | FREE! | Portable wifi router |  ❌
 Griffin macbook stand               | FREE! | | ❌
 Design Patterns in Ruby book        | FREE! | | ❌
 Muji "Aroma Diffuser"               | FREE! | | ❌
+Dymo USB label printer              | FREE! | | ❌
+
 
 Items sold
 ---
