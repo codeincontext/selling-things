@@ -21,9 +21,6 @@ Traktor Kontrol S2                  | £100  | Much loved DJ controller. Some ma
 Novation Launchpad Mini             | £35   | Lights and buttons. Controllable with midi / node.js. Originally £80 | ❌
 Dimplex 2KW portable fan heater     | FREE! |   | ❌
 TP-Link Wireless N Nano Router      | FREE! | Portable wifi router |  ❌
-Griffin macbook stand               | FREE! | | ❌
-Design Patterns in Ruby book        | FREE! | | ❌
-Muji "Aroma Diffuser"               | FREE! | | ❌
 Dymo USB label printer              | FREE! | | ❌
 
 
@@ -32,6 +29,9 @@ Items sold
 
 Name                                | 💷     | Comments | Sold
 --------                            | ----- | -------- | ----
+Design Patterns in Ruby book        | FREE! | | ✅
+Griffin macbook stand               | FREE! | | ✅
+Muji "Aroma Diffuser"               | FREE! | | ✅
 Apple Trackpad                      | £20   | The previous version | ✅
 Purple bean bag                     | FREE! | | ✅
 Ni no Kuni PS3 game                 | FREE! | Studio Ghibli game! | ✅
