@@ -14,6 +14,7 @@ Items for sale
 
 Name                                | 💷     | Comments | Sold
 --------                            | ----- | -------- | ----
+Moment high quality iPhone tele/wide lenses | £80 | Including the Moment iPhone case, but I'd recommend their faceplate instead | ❌
 Ikea double foam mattress           | FREE! | 'Ikea double' length. Removable section at end to make it normal double size. Firm. Originally £180 | ❌
 Tannoy HTS 201 5.1 Speakers         | £200  | With cables and rear stands! Good sound, great sub, look great. Originally £350+ | ❌
 Onkyo TX-NR414 Amplifier            | £70   | Half price if sold with speakers. Originally £150+ | ❌
