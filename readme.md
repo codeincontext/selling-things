@@ -21,7 +21,6 @@ Onkyo TX-NR414 Amplifier            | £70   | Half price if sold with speakers.
 Traktor Kontrol S2                  | £100  | Much loved DJ controller. Some marking from sticky labels, would probably clean off. Originally £320 | ❌
 Novation Launchpad Mini             | £35   | Lights and buttons. Controllable with midi / node.js. Originally £80 | ❌
 Dimplex 2KW portable fan heater     | FREE! |   | ❌
-TP-Link Wireless N Nano Router      | FREE! | Portable wifi router |  ❌
 Dymo USB label printer              | FREE! | | ❌
 
 
@@ -41,6 +40,7 @@ Mini displayport to VGA adapter     | FREE! | | ✅
 2x Lomography ISO 100 B&W 35mm film | FREE! | | ✅
 Novation Nocturn                    | FREE! | Midi controller, USB knobs | ✅
 Box of Arduino & electronics kit    | FREE! | For someone interested in learning that wouldn't otherwise have access | ✅
+TP-Link Wireless N Nano Router      | FREE! | Portable wifi router |  ✅
 
 
 *Coming soon: Ikea desk with monitor arm, Ikea desk chair, computer monitor*
